@@ -1,0 +1,28 @@
+.chatbot-container{
+   background-color:aqua; 
+   padding: 4rem 0 2rem 0;
+   display: flex;
+   flex-direction:column;
+   justify-content: center;
+   text-align: center;
+   margin-bottom: 24px;
+   padding: 24px;
+   color: #fff;
+}
+.chatbot-body{
+    padding: 9px 20px;
+    border-radius: 2px;
+    margin-right: 10px;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    margin-bottom: 16px;
+    border: 1px solid #fff;
+
+}
+.field{
+    
+}
+@media screen and  (max-width: 300px){
+    
+}
